@@ -1,0 +1,17 @@
+.contact {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.contact_mail {
+    color: gold;
+    display: flex;
+    flex-direction: row;
+}
+
+.contact_mail > p {
+    margin-left: 10px;
+}

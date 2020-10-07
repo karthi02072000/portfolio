@@ -1,0 +1,14 @@
+.header {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: turquoise;
+}
+
+.header > p {
+    padding: 10px;
+    font-size: large;
+    font-weight: 500;
+    cursor: pointer;
+}

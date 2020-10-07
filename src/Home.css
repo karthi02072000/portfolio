@@ -1,0 +1,27 @@
+.home_data {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.home_image {
+    border-radius: 100px;
+    padding-bottom: 15px; 
+    height: 200px;
+    width:200px;
+}
+
+.home_details > h2 {
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home_details > p {
+    padding : 5px;
+    font-size: 20px;
+}
+
+.home {
+    border-bottom: 2px lightgray solid;
+}
